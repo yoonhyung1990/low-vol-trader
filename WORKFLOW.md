@@ -1,4 +1,4 @@
-# 작업 기준 (WORKFLOW) v1.1 — 2026-07-17
+# 작업 기준 (WORKFLOW) v1.2 — 2026-07-18
 확정: yh / GPT·Claude 교차 검수 반영
 
 ## 역할
@@ -20,6 +20,9 @@
   이견은 병합 전 브랜치에서 해소한다.
 - 이 규칙은 본 public governance 저장소의 CONSTITUTION.md, WORKFLOW.md,
   reviews/ 및 수동 서명 governance 문서 변경에 적용한다.
+
+## 결정 형식
+- 모든 D 결정은 ① 채택하는 것 ② 배제하는 것 ③ 다시 열 수 있는 조건을 명시한다.
 
 ## 링크 규칙
 - 검수·검증 대상은 항상 커밋 고정 raw 링크로 지정한다.
